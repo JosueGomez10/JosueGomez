@@ -12,7 +12,7 @@ Me esfuerzo en actualizar, reforzar y adptar mis conocimientos a las nuevas téc
 
 ### Lenguajes y Herramientas
 
--**Lenguajes**:
+- **Lenguajes**:
   - HTML5
   - CSS3
   - PHP
@@ -20,14 +20,14 @@ Me esfuerzo en actualizar, reforzar y adptar mis conocimientos a las nuevas téc
   - TypeScript básico
   - Java
   - C# básico 
--**Bases de Datos**:
+- **Bases de Datos**:
   - MySQL
   - MySQL Server
   - Oracle XE
   - MongoDB
--**Frameworks/Librerias**:
+- **Frameworks/Librerias**:
   - React.js
--**Otras Herramientas**:
+- **Otras Herramientas**:
   - Git & GitHub
   - Figma
 
