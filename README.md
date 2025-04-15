@@ -1,12 +1,12 @@
 # ¡Hola! 👋 Soy Josue Gomez
 
-### Estudiante de Ingenieria en Sistemas Computacionales | Entusiasta de la web
+### Ingeniero en Sistemas Computacionales | Entusiasta de la web
 
 ---
 
 ## Sobre Mí
 
-¡Hola! Soy un apasionado estudiante de Ingenieria en Sistemas Computacionales, con poca experiencia en la creación de aplicaciones web dinámicas, responsivas y fáciles de usar.
+¡Hola! Soy un Ingeniero en Sistemas Computacionales, con poca experiencia en la creación de aplicaciones web dinámicas, responsivas y fáciles de usar.
 Me encanta analizar las problematicas de las personas y empresas, para poder transformarlas en ideas de aplicaciones reales, dinámicas, responsivas y de fácil uso. 
 Me esfuerzo en actualizar, reforzar y adptar mis conocimientos a las nuevas técnologias. 
 
@@ -33,7 +33,7 @@ Me esfuerzo en actualizar, reforzar y adptar mis conocimientos a las nuevas téc
 
 ### Qué Hago
 
-- 🖥 **Diseño Web Responsivo**: Creación de sitios web móviles y amigables para el usuaio.
+- 🖥 **Diseño Web Responsivo**: Creación de sitios web amigables para el usuaio.
 
 ### Mi Trayectoria de Aprendizaje
 
